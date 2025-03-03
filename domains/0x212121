@@ -1,0 +1,11 @@
+{
+    "description": "Personal Portfolio website",
+    "repo": "https://github.com/0x212121/0x212121.github.io",
+    "owner": {
+        "username": "0x212121",
+        "email": "indra.x.stream@gmail.com"
+    },
+    "record": {
+        "CNAME": "0x212121.github.io"
+    }
+}
